@@ -1,0 +1,38 @@
+export const team = [
+  {
+    id: 1,
+    name: "John Doe",
+    img: "",
+    facebook: "",
+    linkedin: "",
+    twitter: "",
+    position: "Co-Founder & CEO",
+  },
+  {
+    id: 2,
+    name: "James Doe",
+    img: "",
+    facebook: "",
+    linkedin: "",
+    twitter: "",
+    position: "Lead Developer",
+  },
+  {
+    id: 3,
+    name: "Doe Jane",
+    img: "",
+    facebook: "",
+    linkedin: "",
+    twitter: "",
+    position: "Marketing Director",
+  },
+  {
+    id: 4,
+    name: "Doe Jane",
+    img: "",
+    facebook: "",
+    linkedin: "",
+    twitter: "",
+    position: "Creative Director",
+  },
+];
