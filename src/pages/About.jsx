@@ -38,7 +38,7 @@ const About = () => {
                   </ol>
                 </nav>
 
-                <h1 class="pb-2 pb-md-3">About Silicon</h1>
+                <h1 class="pb-2 pb-md-3">About Surlink</h1>
                 <p
                   class="fs-xl pb-4 mb-1 mb-md-2 mb-lg-3"
                   style={{ maxWidth: "526px" }}
@@ -53,7 +53,7 @@ const About = () => {
                 <div class="row row-cols-2 gx-3 gx-lg-4">
                   <div class="col pt-lg-5 mt-lg-1">
                     <img
-                      src="assets/img/about/hero/01.jpg"
+                      src="https://images.pexels.com/photos/442154/pexels-photo-442154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                       class="d-block rounded-3 mb-3 mb-lg-4"
                       alt="Image"
                     />
@@ -70,7 +70,7 @@ const About = () => {
                       alt="Image"
                     />
                     <img
-                      src="assets/img/about/hero/04.jpg"
+                      src="https://images.pexels.com/photos/6196694/pexels-photo-6196694.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                       class="d-block rounded-3"
                       alt="Image"
                     />
